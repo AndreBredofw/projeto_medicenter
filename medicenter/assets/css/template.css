@@ -135,3 +135,7 @@ nav .active a, nav a:hover{
     display: block;
     margin-top: -8px;
 }
+
+.span{
+    margin-left: 80px;
+}
