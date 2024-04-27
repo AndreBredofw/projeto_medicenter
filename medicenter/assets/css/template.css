@@ -252,4 +252,18 @@ footer{
 
 .fm_1, .fm_2, .fm_3{
     flex: 1;
+    color: white;
+    padding: 20px;
+}
+
+.fm_1{
+    background-color: #39aae1;
+}
+
+.fm_2{
+    background-color: #0079c7;
+}
+
+.fm_3{
+    background-color: #2b4c99;
 }
