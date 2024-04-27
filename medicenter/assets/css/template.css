@@ -238,3 +238,18 @@ article .news_resume{
     line-height: 20px;
     margin-bottom: 30px;
 }
+
+footer{
+    background-color: #1e1e1e;
+    display: flex;
+    justify-content: center;
+}
+
+.footer_menu{
+    display: flex;
+    flex: 1;
+}
+
+.fm_1, .fm_2, .fm_3{
+    flex: 1;
+}
