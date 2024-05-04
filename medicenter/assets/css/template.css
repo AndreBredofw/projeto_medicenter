@@ -325,4 +325,10 @@ footer .widget_title_text{
     color: white;
 }
 
+header .container{
+    flex-direction: row;
+}
 
+nav ul{
+    flex-direction: column;
+}
