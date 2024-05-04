@@ -44,5 +44,11 @@
     .footer_copy{
         padding-left: 20px;
     }
+
+    .menu_mobile{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+    }
 }
 

@@ -294,6 +294,20 @@ footer .widget_title_text{
     margin-top: 30px;
 }
 
+.menu_mobile{
+    display: none;
+    width: 40px;
+    height: 40px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-right: 20px;
+}
+
+.mm_line{
+    height: 3px;
+    background-color:#39aae1;
+}
+
 .betwen{
     display: flex;
     justify-content: space-between;
@@ -331,4 +345,12 @@ header .container{
 
 nav ul{
     flex-direction: column;
+    display: none;
+}
+
+header{
+    height: auto;
+}
+.logo{
+    padding-left: 20px;
 }
