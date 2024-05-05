@@ -181,6 +181,21 @@ nav .active a, nav a:hover{
     margin-top: 10px;
 }
 
+#aside_pai{
+    
+}
+
+
+.container_aside{
+   
+    
+}
+
+.retangulo_aside{
+   flex: 2;
+   
+}
+
 .flex{
     display: flex;
     flex-wrap: wrap;
