@@ -191,10 +191,7 @@ nav .active a, nav a:hover{
     
 }
 
-.retangulo_aside{
-   flex: 2;
-   
-}
+
 
 .flex{
     display: flex;
