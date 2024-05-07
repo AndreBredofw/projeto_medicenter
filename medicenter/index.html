@@ -6,15 +6,16 @@
     <link rel="stylesheet" href="assets/css/template.css">
     <link rel="stylesheet" href="assets/css/mediaqueries.css">
     <script type="text/javascript">
-        window.onload = function(){
-            document.querySelector(".menuMobile").addEventListener("click", function(){
-                if(document.querySelector(".menu nav ul").styledisplay == 'flex'){
-                    document.querySelector(".menu nav ul").styledisplay = 'none';
-                } else{
-                    document.querySelector(".menu nav ul").styledisplay = 'none'
-                }
-            })
-        }
+        window.onload = function() {
+            document.querySelector(".menu_mobile").addEventListener("click", function(){
+                    if (document.querySelector(".menu nav ul").style.display == 'flex'){
+                        document.querySelector(".menu nav ul").style.display = 'none';
+                    } else {
+                        document.querySelector(".menu nav ul").style.display = 'flex'
+                    } 
+                })
+           
+            }
     </script>
     <title>Document</title>
 
@@ -36,6 +37,7 @@
                     </div>
                     <ul>
                         <li class="active"><a href="">Home</a></li>
+                        <li><a href="">Home</a></li>
                         <li><a href="">Home</a></li>
                         <li><a href="">Home</a></li>
                         <li><a href="">Home</a></li>
