@@ -193,6 +193,15 @@ nav .active a, nav a:hover{
     display: flex;
 }
 
+.aside_lat{
+    border-top: 1px solid rgba(0, 0, 0, 0.336);
+    padding: 10px;
+}
+
+.aside_lat > #imm{
+    
+}
+
 .container_aside{
     
     background-color: #0079c7;
