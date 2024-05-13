@@ -149,6 +149,10 @@ nav .active a, nav a:hover{
 
 }
 
+#latest_tweets > .latest-posts{
+    color: white;
+}
+
 
 #geral{
     display: flex;
